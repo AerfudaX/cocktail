@@ -1,0 +1,54 @@
+The MIT License (MIT)
+
+Copyright (c) 2022 AerfudaX
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in
+all copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
+THE SOFTWARE.
+
+
+License of media (textures):
+----------------------------
+Created by AerfudaX :
+- alexander_glass.png
+- between_the_sheets_glass.png
+- bottle_overlay.png
+- bottlecharover.png
+- brandy_crusta_glass.png
+- champagne_cocktail_glass.png
+- chartreuse.png
+- cuba_libre_glass.png
+- dry_martini_glass.png
+- espresso_martini_glass.png
+- french75_glass.png
+- irish_coffee_glass.png
+- john_collins_glass.png
+- last_word_glass.png
+- manhattan_glass.png
+- margarita_glass.png
+- mary_pickford_glass.png
+- mimosa_glass.png
+- mojito_glass.png
+- moscow_mule_glass.png
+- old_fashioned_glass.png
+- pinea_colada_glass.png
+- planter_punch_glass.png
+- sidecar_glass.png
+- tequila_sunrise_glass.png
+- tommy_margarita_glass.png
+- vermouth.png
+- whiskey_sour_glass.png

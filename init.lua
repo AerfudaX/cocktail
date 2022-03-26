@@ -241,7 +241,7 @@ minetest.register_craft({
 	recipe = {
 	    "farming:sugar",
 		"wine:glass_champagne",
-		"farming:strawberry",
+		"ethereal:strawberry",
 	},
 })
 
@@ -424,7 +424,7 @@ minetest.register_craft({
     type = "shapeless",
 	recipe = {
 	    "wine:glass_bourbon",
-		"ethereal:sugar",
+		"farming:sugar",
 		"ethereal:lemon",
 	},
 })
@@ -452,7 +452,7 @@ minetest.register_craft({
     output = "cocktail:last_words",
     type = "shapeless",
 	recipe = {
-	    "wine:chartreuseglass",
+	    "cocktail:chartreuseglass",
 		"ethereal:lemon",
 	},
 })
@@ -659,7 +659,7 @@ minetest.register_craft({
     type = "shapeless",
 	recipe = {
 	    "wine:glass_wine",
-		"ethereal:sugar",
+		"farming:sugar",
 		"wine:glass_brandy",
 		"ethereal:lemon",
 	},
@@ -719,7 +719,7 @@ minetest.register_craft({
 	recipe = {
 	    "wine:glass_rum",
 		"ethereal:coconut_slice",
-		"farming:pineapple_slice",
+		"farming:pineapple_ring",
 	},
 })
 

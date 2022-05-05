@@ -130,6 +130,22 @@ minetest.register_craft({
 	},
 })
 
+minetest.register_craft({
+    output = "cocktail:chartreuseglass 9",
+    type = "shapeless",
+	recipe = {
+	    "cocktail:chartreusebottle"
+	},
+})
+
+minetest.register_craft({
+    output = "cocktail:vermouthglass 9",
+    type = "shapeless",
+	recipe = {
+	    "cocktail:vermouthbottle"
+	},
+})
+
 minetest.register_node("cocktail:alexander", {
     description = S("Glass of Alexander"),
 	visual_scale = 0.5;
